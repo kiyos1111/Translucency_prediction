@@ -7,5 +7,5 @@ The codes run on MATLAB (2021a) and use a part of functions from Psychotoolbox (
 # How to use
 1. Download Psychotoolbox and matlabPyrTools.
 2. Add path to their folders on MATLAB.
-3. Run XXX.m
-
+3. Calculate image features. Run OF_mapping.m and Feature_Calculator_highlights_shading.m.
+4. Predict human response. Run Model_prediction.m.
