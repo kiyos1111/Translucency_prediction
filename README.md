@@ -1,6 +1,6 @@
 # Translucency_prediction
 
-This repository contains the code for the following paper: "Kiyokawa, H., Nagai, T., Yamauchi, Y., and Kim, J., The perception of translucency from surface gloss, Vision Research, 108140, (2022)". https://doi.org/10.1016/j.visres.2022.108140
+This repository contains code for the following paper: "Kiyokawa, H., Nagai, T., Yamauchi, Y., and Kim, J., The perception of translucency from surface gloss, Vision Research, 108140, (2022)". https://doi.org/10.1016/j.visres.2022.108140
 
 The code runs on MATLAB (2021a) and uses some functions from Psychotoolbox (http://psychtoolbox.org/) and matlabPyrTools (https://github.com/LabForComputationalVision/matlabPyrTools)
 
